@@ -1,2 +1,2 @@
 # sand
-ipython hello
+ipython hello world
